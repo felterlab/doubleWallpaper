@@ -352,6 +352,14 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/alone/thumb/81.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "amoled",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/amoled/51.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/amoled/thumb/51.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
       ]
     },
@@ -1440,7 +1448,8 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/amoled/thumb/50.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
-        },{
+        },
+        {
           "title": "Impossible",
           "genre": "amoled",
           "url":"http://felterlab.co.in/apps/doubleWallpaper/amoled/51.jpg",
