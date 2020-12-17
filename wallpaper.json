@@ -464,6 +464,14 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/birds/thumb/46.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "alone",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/alone/88.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/alone/thumb/88.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
