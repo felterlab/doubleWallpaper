@@ -1,5 +1,10 @@
 [
     {
+      "category": "Christmas",
+      "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/10.jpg",
+      "categoryId": 10
+    },
+    {
       "category": "Alone",
       "catUrl": "http://felterlab.co.in/apps/doubleWallpaper/category/1.jpg",
       "categoryId": 1
