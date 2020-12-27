@@ -568,6 +568,22 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/birds/thumb/57.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "animals",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/animals/46.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/animals/thumb/46.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "animals",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/animals/50.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/animals/thumb/50.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
