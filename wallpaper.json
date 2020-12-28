@@ -584,6 +584,14 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/animals/thumb/50.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "art",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/art/73.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/73.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
