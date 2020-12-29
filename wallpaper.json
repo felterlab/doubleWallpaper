@@ -592,6 +592,14 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/73.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "quotes",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/quotes/64.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/quotes/thumb/64.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
@@ -4318,6 +4326,14 @@
         "genre": "quotes",
         "url":"http://felterlab.co.in/apps/doubleWallpaper/quotes/66.jpg",
         "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/quotes/thumb/66.jpg",
+        "author": "Nizam",
+        "source": "https://pexels.com"
+      },
+      {
+        "title": "Impossible",
+        "genre": "quotes",
+        "url":"http://felterlab.co.in/apps/doubleWallpaper/quotes/67.jpg",
+        "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/quotes/thumb/67.jpg",
         "author": "Nizam",
         "source": "https://pexels.com"
       }
