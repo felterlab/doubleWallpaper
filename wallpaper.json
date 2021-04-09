@@ -680,6 +680,30 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/amoled/thumb/96.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "art",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/art/101.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/101.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "art",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/art/107.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/107.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "art",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/art/109.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/109.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
