@@ -704,6 +704,22 @@
           "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/art/thumb/109.jpg",
           "author": "Nizam",
           "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "alone",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/alone/114.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/alone/thumb/114.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
+        },
+        {
+          "title": "Impossible",
+          "genre": "alone",
+          "url":"http://felterlab.co.in/apps/doubleWallpaper/alone/118.jpg",
+          "thumbUrl": "http://felterlab.co.in/apps/doubleWallpaper/alone/thumb/118.jpg",
+          "author": "Nizam",
+          "source": "https://pexels.com"
         }
     ]
   },
